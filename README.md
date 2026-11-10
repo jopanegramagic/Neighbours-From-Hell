@@ -204,4 +204,4 @@ This repository serves as the official landing page for Neighbours From Hell. Th
 **Get the most recent version of Neighbours From Hell today!**
 
 ---
-**Last updated:** 2026-11-09 21:22:49 UTC
+**Last updated:** 2026-11-10 03:58:12 UTC
